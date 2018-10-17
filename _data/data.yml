@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Md Mouinul Islam
     tagline: Lead Software Engineer /n Samsung R&D Institute, Bangladesh.
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mouinulislam@gmail.com
