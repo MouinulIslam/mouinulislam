@@ -43,16 +43,7 @@ sidebar:
       - item: Listening Music
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Information and Communication Technology (ICT) 
@@ -69,7 +60,7 @@ experiences:
     - role: Lead Software Engineer
       time: 2014 - Present
       company: Samsung R&D Institute Bangladesh.
-      Expertise: iOS, Android, HTML, CSS, JavaScript, RESTful API, UPNP, OpenGL, XML, JSON, Vector Graphics, BLE Technology, SQLite, Realm, GIT etc.
+    - Expertise: iOS, Android, HTML, CSS, JavaScript, RESTful API, UPNP, OpenGL, XML, JSON, Vector Graphics, BLE Technology, SQLite, Realm, GIT etc.
           
 projects:
     title: Projects
