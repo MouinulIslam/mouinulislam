@@ -10,19 +10,19 @@
     {{ publications.title }}
   </h2>
 
-  {% if publications.intro %}
-  <div class="intro">
-    {{ publications.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
+  
 
-  {% for publication in publications.papers %}
-  <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
+ 
+ <!-- project 4 -->
+     <div class="item">
+     <b>Analysis and improvement of Si integrated on-chip dipole antennas using high-k dielectric materials for ultra wideband signal transmission</b>
+     <p>
+      DOI: 10.1109/ICIEV.2014.6850782<br>
+      <b>Conference:</b> 2014 International conference on Informatics, Electronics & Vision (ICIEV) <br>
+       <a href="https://ieeexplore.ieee.org/document/6850782">https://ieeexplore.ieee.org/document/6850782</a>
+     </p>  
+    </div><!--//item-->
+  
 
 </section><!--//section-->
 {% endif %}
