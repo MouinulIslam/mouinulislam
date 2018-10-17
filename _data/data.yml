@@ -58,46 +58,18 @@ education:
     - degree: MSc in Information and Communication Technology (ICT) 
       university: Bangladesh University of Engineering and Technology (BUET)
       time: 2017 - Continuing
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+     
 
     - degree: BSc in Electrical and Electronic Engineering (EEE)
       university: Bangladesh University of Engineering and Technology (BUET)
       time: 2008 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+     
 
 experiences:
     - role: Lead Software Engineer
       time: 2014 - Present
       company: Samsung R&D Institute Bangladesh.
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+      Expertise: iOS, Android, HTML, CSS, JavaScript, RESTful API, UPNP, OpenGL, XML, JSON, Vector Graphics, BLE Technology, SQLite, Realm, GIT etc.
           
 projects:
     title: Projects
