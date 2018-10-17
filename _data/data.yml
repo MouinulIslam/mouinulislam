@@ -27,20 +27,20 @@ sidebar:
       - idiom: English
         level: Good
 
-      - idiom: French
+      - idiom: Bangla
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Basic
         
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Reading Books
         link:
 
-      - item: Cooking
+      - item: Listening Music
         link:
 
 career-profile:
