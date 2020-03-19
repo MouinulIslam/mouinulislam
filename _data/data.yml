@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Mouinul Islam
-    tagline: Lead Software Engineer  Samsung R&D Institute, Bangladesh.
+    tagline: Research Assistant (Big Data Analytics Laboratory, NJIT, New Jersey, USA).
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mouinulislam@gmail.com
-    phone: 8801707010622
+    phone: (201)7193907
     website: mouinulislam.github.io #do not add http://
     linkedin: 
     github: 
@@ -46,9 +46,13 @@ sidebar:
 
 
 education:
+    - degree: Ph.D in Computer Science 
+      university: New Jersey Institute of Technology (NJIT)
+      time: 2019 - Continuing
+      
     - degree: MSc in Information and Communication Technology (ICT) 
       university: Bangladesh University of Engineering and Technology (BUET)
-      time: 2017 - Continuing
+      time: 2017 - 2019
      
 
     - degree: BSc in Electrical and Electronic Engineering (EEE)
@@ -57,8 +61,13 @@ education:
      
 
 experiences:
+    - role: Research Assistant (Big Data Analytics Laboratory)
+      time: 2019 - Present
+      company: Samsung R&D Institute Bangladesh.
+    - Expertise: Big Data, Data Mining, Machine Learning.
+          
     - role: Lead Software Engineer
-      time: 2014 - Present
+      time: 2014 - 2019
       company: Samsung R&D Institute Bangladesh.
     - Expertise: iOS, Android, HTML, CSS, JavaScript, RESTful API, UPNP, OpenGL, XML, JSON, Vector Graphics, BLE Technology, SQLite, Realm, GIT etc.
           
